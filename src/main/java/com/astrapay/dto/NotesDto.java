@@ -1,10 +1,8 @@
 package com.astrapay.dto;
 
 import lombok.Data;
-
 import java.util.HashMap;
 import java.util.Map;
-
 import javax.validation.constraints.NotEmpty;
 
 @Data

@@ -21,9 +21,9 @@ git clone https://github.com/novalb12/astrapay-spring-boot-external.git
 
 and here is the list of API path that can be used
 
-GET /notes : show list of current notes
-POST /notes with params key and value : add notes
-DELETE /notes with params key : delete notes with key
+* GET /notes : show list of current notes
+* POST /notes with params key and value : add notes
+* DELETE /notes with params key : delete notes with key
 
 
 Here are some example API calls and responses:
